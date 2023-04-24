@@ -1,0 +1,42 @@
+html{
+    background-color: #e6e9ff80;
+}
+
+header{
+    background-color: #4D5481;
+    color: #D9DDF9;
+    text-align: center;
+    padding: 15px 20px;
+}
+
+nav{
+    background-color: #D9DDF9;
+    padding: 10px 
+}
+body{
+    font-size: 16px; /*1 rem = 10px*/
+}
+
+.titulo{
+    text-align: center;
+    color: #8178BE;
+    
+}
+
+section{
+    margin-top: 5rem;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+
+section .contacto{
+    background-color: #4D5481;
+    color: #D9DDF9;
+    padding: 3rem;
+}
+
+footer{
+    background-color: #D9DDF9;
+    padding: 0.5rem;
+}
